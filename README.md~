@@ -1,0 +1,7 @@
+Move Pusheen!
+in this simple Javascript game, every time the 'move' button is pushed,
+Pusheen the cat moves around the room.
+
+this set up employs 2 functions one that moves the pusheen image arround a grid.
+One that removes the image from its previous place in the grid when the button is pushed again.
+arguably these 2 could be done in on function so i have added a third to post a comment to the top of the page.

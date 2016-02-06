@@ -48,9 +48,7 @@ function move(){
       break;
             
     }
-
   }
-    
   
   });
                                 
