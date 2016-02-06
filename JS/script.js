@@ -11,14 +11,14 @@ $("button").click(function(){
   function removeAll(){
     for(i=0; i<=5; i++){
       var text = "#_" + i;
-      $(text).html('');  //flying pusheen
+      $(text).html(''); 
     }
     
   }
 
 
 function move(){
-  cell = Math.floor(Math.random()*7);
+  cell = Math.floor(Math.random()*6);
   var test = adder + cell;
 
   switch(test) {
